@@ -24,8 +24,12 @@ ASCII 字符: Consolas
 
 Icon: [NerdFont](https://github.com/ryanoasis/nerd-fonts)
 
-## 欢迎使用, 有任何 bug, 希望给我提 issues
+## 开源许可
 
-## 如果对你有用的话请标记一颗星星⭐️
+本仓库的所有代码基于 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 进行分发与使用. 协议全文见 [LICENSE](https://github.com/HanleyLee/Yahei-Consolas-Icon-Hybrid-Font/blob/master/LICENSE) 文件.
 
-> 本套字体仅限用于个人使用, 如需商用请知悉 Microsoft Yahei 版权
+Copyright 2020 HanleyLee
+
+---
+
+欢迎使用, 有任何 bug, 希望给我提 issues. 如果对你有用的话请标记一颗星星 ⭐️
