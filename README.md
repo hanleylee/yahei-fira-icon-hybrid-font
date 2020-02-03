@@ -18,11 +18,11 @@
 
 ## 字体组成
 
-中文字符: Microsoft Yahei
+中文字符: Microsoft Yahei, PingFang-SC(极少量)
 
-ASCII 字符: Consolas
+西文字符: Consolas
 
-Icon: [NerdFont](https://github.com/ryanoasis/nerd-fonts)
+Iconic 字符: [NerdFont](https://github.com/ryanoasis/nerd-fonts)
 
 ## 开源许可
 
