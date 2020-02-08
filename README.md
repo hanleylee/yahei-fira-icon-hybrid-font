@@ -10,6 +10,43 @@
 
 ![himg](https://a.hanleylee.com/HKMS/2020-01-20-221736.png?x-oss-process=style/WaMa)
 
+## 字体使用
+
+### 安装(以 macOS 为例)
+
+1. 使用系统自带的`FontBook`软件打开字体文件
+
+    ![himg](https://a.hanleylee.com/HKMS/2020-02-03-043210.png?x-oss-process=style/WaMa)
+
+2. 确认安装
+
+    ![himg](https://a.hanleylee.com/HKMS/2020-02-03-043844.png?x-oss-process=style/WaMa)
+
+此时, 打开`FontBook`便可以看到安装的字体文件
+
+![himg](https://a.hanleylee.com/HKMS/2020-02-03-044119.png?x-oss-process=style/WaMa)
+
+### 终端中使用
+
+1. iTerm
+
+    `iTerm` → `Preference` → `Profile` → `Text` → `Font`
+
+    ![himg](https://a.hanleylee.com/HKMS/2020-02-03-044341.jpg?x-oss-process=style/WaMa)
+
+    iTerm 的字体设置分为 ASCII 字符的字体与非 ASCII 字符的字体, 建议均设置为本字体, 达到统一效果
+
+    ps: 终端中的 vim 字体为终端使用的字体, 不能针对终端 vim 设置自定义字体.
+
+2. MacVim
+
+    在`~/.vimrc`做如下设定
+
+    ```bash
+    set guifont=YaHei\ Consolas\ Icon\ Hybrid:h16 "设置 GUI 下字体及大小, 针对 MacVim 进行设置
+    set guifontwide=YaHei\ Consolas\ Icon\ Hybrid:h14 "设置 GUI 下中文字体及大小, 针对 MacVim 进行设置
+    ```
+
 ## 特性
 
 - ✅ 支持 Vim 中 Powerline 字体显示
