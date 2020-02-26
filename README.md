@@ -1,14 +1,21 @@
 # Yahei-Consolas-Icon-Hybrid-Font
 
+![GitHub last commit](https://img.shields.io/github/last-commit/hanleylee/Yahei-Consolas-Icon-Hybrid-Font)
+![GitHub](https://img.shields.io/github/license/hanleylee/Yahei-Consolas-Icon-Hybrid-Font)
+
 本字体适用于 Vim 及终端图标的中英文混合字体.
 
 做这套字体的原因是因为需要在终端使用 [lsd](https://github.com/Peltoche/lsd) 插件, 但是这个插件是基于NerdFont 图标字体, 不支持中文.
 
 考虑到国人在终端中还是有显示中文字体的需求的, 因此有了这套字体. 字体在终端以及 Vim 的显示效果如下:
 
-![himg](https://a.hanleylee.com/HKMS/2020-01-20-223603.png?x-oss-process=style/WaMa)
+- `iTerm` 中显示
 
-![himg](https://a.hanleylee.com/HKMS/2020-01-20-221736.png?x-oss-process=style/WaMa)
+    ![appearance-of-terminal-with-font](img/appearance-of-terminal-with-font.png)
+
+- `MacVIm` 中显示
+
+    ![vim-with-font.png](img/vim-with-font.png)
 
 ## 字体使用
 
@@ -16,15 +23,15 @@
 
 1. 使用系统自带的`FontBook`软件打开字体文件
 
-    ![himg](https://a.hanleylee.com/HKMS/2020-02-03-043210.png?x-oss-process=style/WaMa)
+    ![install-font-by-font-book-1.png](img/install-font-by-font-book-1.png)
 
 2. 确认安装
 
-    ![himg](https://a.hanleylee.com/HKMS/2020-02-03-043844.png?x-oss-process=style/WaMa)
+    ![install-font-by-font-book-2](img/install-font-by-font-book-2.png)
 
 此时, 打开`FontBook`便可以看到安装的字体文件
 
-![himg](https://a.hanleylee.com/HKMS/2020-02-03-044119.png?x-oss-process=style/WaMa)
+![custom-font-in-font-book](img/custom-font-in-font-book.png)
 
 ### 终端中使用
 
@@ -32,7 +39,7 @@
 
     `iTerm` → `Preference` → `Profile` → `Text` → `Font`
 
-    ![himg](https://a.hanleylee.com/HKMS/2020-02-03-044341.jpg?x-oss-process=style/WaMa)
+    ![settings-of-iterm-to-use-custom-font.png](img/settings-of-iterm-to-use-custom-font.png)
 
     iTerm 的字体设置分为 ASCII 字符的字体与非 ASCII 字符的字体, 建议均设置为本字体, 达到统一效果
 
