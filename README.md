@@ -2,6 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanleylee/Yahei-Consolas-Icon-Hybrid-Font)
 ![GitHub](https://img.shields.io/github/license/hanleylee/Yahei-Consolas-Icon-Hybrid-Font)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHanleyLee%2FYahei-Consolas-Icon-Hybrid-Font.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHanleyLee%2FYahei-Consolas-Icon-Hybrid-Font?ref=badge_shield)
 
 本字体适用于 Vim 及终端图标的中英文混合字体.
 
@@ -77,3 +78,7 @@ Copyright 2020 HanleyLee
 ---
 
 欢迎使用, 有任何 bug, 希望给我提 issues. 如果对你有用的话请标记一颗星星 ⭐️
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHanleyLee%2FYahei-Consolas-Icon-Hybrid-Font.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHanleyLee%2FYahei-Consolas-Icon-Hybrid-Font?ref=badge_large)
