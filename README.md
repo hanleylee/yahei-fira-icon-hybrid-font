@@ -1,4 +1,4 @@
-# Yahei-Consolas-Icon-Hybrid-Font
+# Yahei-Fira-Icon-Hybrid-Font
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanleylee/Yahei-Consolas-Icon-Hybrid-Font)
 ![GitHub](https://img.shields.io/github/license/hanleylee/Yahei-Consolas-Icon-Hybrid-Font)
@@ -51,8 +51,8 @@
     在`~/.vimrc`做如下设定
 
     ```bash
-    set guifont=YaHei\ Consolas\ Icon\ Hybrid:h16 "设置 GUI 下字体及大小, 针对 MacVim 进行设置
-    set guifontwide=YaHei\ Consolas\ Icon\ Hybrid:h14 "设置 GUI 下中文字体及大小, 针对 MacVim 进行设置
+    set guifont=YaHei\ Fira\ Icon\ Hybrid:h16 "设置 GUI 下字体及大小, 针对 MacVim 进行设置
+    set guifontwide=YaHei\ Fira\ Icon\ Hybrid:h14 "设置 GUI 下中文字体及大小, 针对 MacVim 进行设置
     ```
 
 ## 特性
@@ -63,9 +63,9 @@
 
 ## 字体组成
 
-中文字符: Microsoft Yahei, PingFang-SC(极少量)
+中文字符: Microsoft Yahei
 
-西文字符: Consolas
+西文字符: [Fira Code](https://github.com/tonsky/FiraCode)
 
 Iconic 字符: [NerdFont](https://github.com/ryanoasis/nerd-fonts)
 
@@ -79,6 +79,6 @@ Copyright 2020 HanleyLee
 
 欢迎使用, 有任何 bug, 希望给我提 issues. 如果对你有用的话请标记一颗星星 ⭐️
 
-
 ## License
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHanleyLee%2FYahei-Consolas-Icon-Hybrid-Font.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHanleyLee%2FYahei-Consolas-Icon-Hybrid-Font?ref=badge_large)
